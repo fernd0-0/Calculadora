@@ -8,7 +8,7 @@ function calculate() {
     } else if (imc < 24.9) {
         text=("Você está no peso ideal");
     } else if (imc < 29.9) {
-        text=("Você Sobrepeso");
+        text=("Você está com Sobrepeso");
     } else if (imc < 39.9) {
         text=("Você está com obesidade 1");
     } else if (imc >= 39.9) {
